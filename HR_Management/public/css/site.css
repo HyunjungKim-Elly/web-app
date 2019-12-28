@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+@import url("https://fonts.googleapis.com/css?family=Major+Mono+Display");
+
+body{
+    background-color: azure;
+}
+.container-fluid{
+    background-color: rgb(183, 253, 255);
+}
+h2{
+    color: rgb(32, 82, 102);
+    font-family: "Major Mono Display";
+}
+
+.navbar-brand{
+    font-family:"Open Sans";
+}
+li{
+    font-family: "Major Mono Display";
+}
+p{
+    font-family:"Open Sans";
+}
