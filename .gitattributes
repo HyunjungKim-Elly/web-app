@@ -1,0 +1,4 @@
+# WEB
+*text=auto
+* linguist-vendored
+*.js linguist-vendored=false
