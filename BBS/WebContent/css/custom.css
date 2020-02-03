@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Quicksand:700&display=swap');
+
+*{
+	font-family: 'Quicksand', sans-serif;
+}
+h1{
+	font-family: 'Quicksand:700', sans-serif;
+}
+img{
+        max-width: 80%;
+        max-height: 80%;
+        display: block; /* remove extra space below image */
+        margin: 0px auto;
+}    
+.navbar-default { 
+	background-color: #74c5db; 
+	}
+
+ .btn-outline {
+  color: #fff;
+  background-color: #white;
+  border-color: #d1d0d2;
+  color: #b9b9bb;
+}
+
